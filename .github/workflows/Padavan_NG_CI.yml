@@ -24,7 +24,7 @@ env:
   upload_cowtransfer: true                                      # 上传到奶牛快传
   upload_wetransfer: true                                       # 上传到 WeTransfer
   src_git: https://github.com/TurBoTse/padavan-ng.git           # 源码地址
-  config_dir: /opt/rt-n56u/trunk/configs/templates/phicomm      # 设备模板目录
+  config_dir: /opt/rt-n56u/trunk/configs/templates/newifi      # 设备模板目录
   toolchain_dir: /opt/rt-n56u/toolchain/out                     # 工具链目录
   toolchain_pkg: mipsel-linux-uclibc-ng.tar.xz
   toolchain_url: https://github.com/TurBoTse/padavan-toolchain/releases/download/v1.0
