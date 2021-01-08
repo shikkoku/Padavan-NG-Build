@@ -46,8 +46,8 @@ jobs:
     strategy:
       matrix:
         include:
-          - build_variant: "mt7620"
-            targets: "psg1218"
+          - build_variant: "mt7621"
+            targets: "newifi-d1"
     steps:
       - name: Checkout main            # 导入主分支
         uses: actions/checkout@main
